@@ -1,5 +1,7 @@
 This repository contains a Tableau Filter Dashboard built to demonstrate how cascading and interactive filters can be applied to visualize Sales by Sub-Category, Customer Name, and other dimensions. The goal is to make dashboards more dynamic and user-friendly by allowing end-users to drill down into specific data points.
 
+Tableau URL https://public.tableau.com/app/profile/divakar8145/vizzes 
+
 📌 Project Overview
 
 The Filter Dashboard showcases the use of relevant/cascading filters, dimension filters, and measure filters in Tableau.
