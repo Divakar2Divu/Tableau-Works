@@ -1,5 +1,7 @@
 This repository contains an analytical study on various countries, focusing on key indicators such as life insurance share, growth percentages, and income categorization. The purpose of this project is to provide a comparative overview across multiple years, highlighting economic and financial patterns.
 
+Tableau URL https://public.tableau.com/app/profile/divakar8145/viz/ComparativeStudyofCountries_16807120937110/Dashboard1 
+
 📂 Project Overview
 
 The study covers:
