@@ -1,4 +1,5 @@
-<img width="1864" height="863" alt="Comparative Study of Countries" src="https://github.com/user-attachments/assets/c9ef7b04-4201-4695-ad8b-fa525732888f" />
+<img width="1877" height="852" alt="Comparative Study of Countries" src="https://github.com/user-attachments/assets/078db4e0-b820-4ab3-865d-a96f49039605" />
+
 This repository contains an analytical study on various countries, focusing on key indicators such as life insurance share, growth percentages, and income categorization. The purpose of this project is to provide a comparative overview across multiple years, highlighting economic and financial patterns.
 
 Tableau URL https://public.tableau.com/app/profile/divakar8145/viz/ComparativeStudyofCountries_16807120937110/Dashboard1 
