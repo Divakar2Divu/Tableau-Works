@@ -1,3 +1,4 @@
+<img width="1015" height="963" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/59eedceb-c2d7-4ce3-a0a3-f4cef29d6dc8" />
 This repository contains a Tableau HR Dashboard designed to provide insights into workforce metrics such as employee demographics, hiring/termination trends, departmental structure, and salary analysis. The goal of this project is to demonstrate how Tableau can be used for HR Analytics to support data-driven decision-making.
 
 Tableau URL https://public.tableau.com/app/profile/divakar8145/vizzes 
