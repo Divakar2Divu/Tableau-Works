@@ -1,3 +1,4 @@
+<img width="649" height="859" alt="Tableau Chart DashBoard" src="https://github.com/user-attachments/assets/71e20425-0f59-4cf5-9988-97c7893c5519" />
 This repository contains an interactive Tableau Dashboard designed to visualize Sales and Profit performance across different sub-categories, months, and quarters. It provides a clear, data-driven overview of business performance, enabling better insights and decision-making.
 
 Tableau URL https://public.tableau.com/app/profile/divakar8145/vizzes
