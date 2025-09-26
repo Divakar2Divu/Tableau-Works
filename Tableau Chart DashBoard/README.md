@@ -1,5 +1,7 @@
 This repository contains an interactive Tableau Dashboard designed to visualize Sales and Profit performance across different sub-categories, months, and quarters. It provides a clear, data-driven overview of business performance, enabling better insights and decision-making.
 
+Tableau URL https://public.tableau.com/app/profile/divakar8145/vizzes
+
 📌 Project Overview
 
 The project demonstrates the use of Tableau for Business Intelligence (BI) by creating multiple visualizations and combining them into a single interactive dashboard.
