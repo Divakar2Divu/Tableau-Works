@@ -25,3 +25,5 @@ Interactive Exploration – Providing users with tools to interact with data and
 Real-World Applications – Showing how dashboards can solve business problems, identify trends, and drive performance.
 
 Whether you are a data enthusiast, business analyst, or Tableau learner, this repository provides examples of practical and impactful Tableau projects that illustrate how data visualization can turn raw information into actionable insights.
+
+Tableau URL https://public.tableau.com/app/profile/divakar8145/vizzes 
